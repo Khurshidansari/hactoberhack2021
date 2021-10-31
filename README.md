@@ -34,3 +34,4 @@ abcde
 bye
 hi
 bro
+hanji
