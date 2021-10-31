@@ -35,3 +35,4 @@ bye
 hi
 bro
 hanji
+can i call you baby
